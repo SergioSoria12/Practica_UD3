@@ -17,7 +17,7 @@ Este proyecto se ha desarrollado en **Laravel** y utiliza un modelo relacional p
 
 El sistema implementa el siguiente modelo Entidad-Relación:
 
-
+![Modelo E-R](/Modelo_ER_Practica_UD3.jpg)
 
 El diagrama anterior muestra las tablas y las relaciones necesarias para el correcto funcionamiento del sistema. Incluye todas las claves primarias (PK), claves foráneas (FK) y las cardinalidades correspondientes entre las entidades.
 
